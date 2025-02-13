@@ -80,7 +80,7 @@
 # Hello world 👋, I'm Sebastian
 
 <p align="center">
-<img src="Banner.png" width="720px" height="300px">
+<img src="Banner.png" width="600px" height="250px">
 </p>
 
 <p align="left">
