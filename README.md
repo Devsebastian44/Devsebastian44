@@ -96,7 +96,7 @@
 
 Soy un **Desarrollador Full-Stack** con experiencia en **programación**, **ciberseguridad** y **diseño gráfico**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
 
-<br>
+
 
 # 🛠️ Languages and Tools:
 
