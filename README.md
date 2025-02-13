@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA3427&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=B101F1&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Sebastian+Alejandro;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=EA3427&size=40&center=true&vCenter=true&width=1000&lines=Hello,+my+name's+Sebastian+Alejandro;)](https://git.io/typing-svg)
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador">
 
@@ -10,7 +10,7 @@ Soy programador full stack. Me especializo en tecnologías con lenguajes como Ja
 
 Tengo sólidos conocimientos en dieseño grafico, creación de contenido 3D, creación de videojuegos y manejo de servidores.
 
-![Discord](https://img.shields.io/badge/Discord-devsebastian44-5865f2?style=for-the-badge&logo=discord&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-devsebastian44-5865f2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/1171260800908922950)
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -36,7 +36,7 @@ Tengo sólidos conocimientos en dieseño grafico, creación de contenido 3D, cre
 <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aftereffects/aftereffects-original.svg" alt="after" width="40" height="40"/> </a>
 </p>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=B101F1&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EA3427&height=120&section=footer"/>
 
 
 
