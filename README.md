@@ -6,11 +6,10 @@
 
 <p align="center">
 <a href="https://www.youtube.com/@devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://www.tiktok.com/@devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/></a>
 <a href="https://discord.com/users/1171260800908922950" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/devsebastian44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 <a href="https://www.instagram.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/devsebastian44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>
 
 
@@ -45,12 +44,9 @@ Soy un **Desarrollador Full-Stack** con experiencia en **programación**, **cibe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo" />
   <img src="https://skillicons.dev/icons?i=jenkins" height="30" alt="jenkins logo"  />
   <img src="https://cdn.simpleicons.org/gnubash/4EAA25" height="30" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo" />
 </div>
 
 
