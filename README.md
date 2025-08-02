@@ -38,10 +38,10 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
   <img src="https://skillicons.dev/icons?i=tailwind"  alt="tailwindcss logo"  />
   <img src="https://skillicons.dev/icons?i=js"  alt="javascript logo" />
   <img src="https://skillicons.dev/icons?i=laravel"  alt="laravel logo" />
-    <img src="https://skillicons.dev/icons?i=jquery"  alt="jquery logo" />
+  <img src="https://skillicons.dev/icons?i=jquery"  alt="jquery logo" />
   <img src="https://skillicons.dev/icons?i=angular"  alt="angularjs logo" />
-    <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs logo" />
-   <img src="https://skillicons.dev/icons?i=react"  alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs"  alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=react"  alt="react logo" />
   <img src="https://skillicons.dev/icons?i=typescript"  alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=php"  alt="php logo" />
   <img src="https://skillicons.dev/icons?i=python"  alt="python logo" />
