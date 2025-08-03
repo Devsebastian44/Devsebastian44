@@ -1,5 +1,6 @@
 # Hello world 👋, I'm Sebastian
 
+
 <p align="center">
 <img src="Banner.png">
 </p>
@@ -23,6 +24,12 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
     💼 Estudiando en Oracle Next Education
     🌱 Aprendiendo Ciencia de Datos
     🔭 Explorando los fundamentos de la IA y las redes neuronales
+
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=C81405&width=500&lines=The+code+is+temporary%2C+but+the+impact+is+permanent)](https://git.io/typing-svg)
+
+</div>
 
 
 ---
@@ -71,8 +78,11 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
 
 ---
 
+# ⚡ Stats 
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devsebastian44&theme=dark&hide_border=false" alt="Devsebastian44's Streak"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark" alt="Devsebastian44's Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Devsebastian44&theme=dark&hide_border=false" alt="Devsebastian44's Streak"/>
 </div>
 
 
