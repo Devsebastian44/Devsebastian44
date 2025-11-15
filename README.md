@@ -59,7 +59,6 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
   <img src="https://skillicons.dev/icons?i=typescript"  alt="typescript logo" />
   <img src="https://skillicons.dev/icons?i=php"  alt="php logo" />
   <img src="https://skillicons.dev/icons?i=python"  alt="python logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45"/>
   <img src="https://skillicons.dev/icons?i=postgresql"  alt="postgresql logo" />
   <img src="https://skillicons.dev/icons?i=mysql"  alt="mysql logo" />
   <img src="https://skillicons.dev/icons?i=redis"  alt="redis logo"  />
