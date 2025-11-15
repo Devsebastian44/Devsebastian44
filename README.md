@@ -68,17 +68,14 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
   <img src="https://skillicons.dev/icons?i=astro"  alt="astro logo"  />
   <img src="https://skillicons.dev/icons?i=elixir"  alt="elixir logo"  />
   <img src="https://skillicons.dev/icons?i=docker"  alt="docker logo" />
-  <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
-  <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
+    <img src="https://skillicons.dev/icons?i=go"  alt="go logo" />
   <img src="https://skillicons.dev/icons?i=git"  alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github"  alt="github logo" />
+    <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
   <img src="https://skillicons.dev/icons?i=aws"  alt="aws logo" />
-  <img src="https://skillicons.dev/icons?i=pycharm"  alt="pycharm logo" />
-  <img src="https://skillicons.dev/icons?i=visualstudio"  alt="visualstudio logo" />
-  <img src="https://skillicons.dev/icons?i=vscode"  alt="vscode logo" />
   <img src="https://skillicons.dev/icons?i=jenkins"  alt="jenkins logo"  />
   <img src="https://skillicons.dev/icons?i=bash"  alt="bash logo"  />
-  <img src="https://skillicons.dev/icons?i=latex"  alt="latex logo" />
   <img src="https://skillicons.dev/icons?i=figma"  alt="figma logo" />
   <img src="https://skillicons.dev/icons?i=obsidian"  alt="obsidian logo" />
 </div>
