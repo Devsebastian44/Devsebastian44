@@ -9,6 +9,7 @@
 <a href="https://www.youtube.com/@devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://discord.com/users/1171260800908922950" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
 <a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
+<a href="https://www.instagram.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/devsebastian44/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white" /></a>
 </p>
 
@@ -18,7 +19,7 @@
 
 # Sobre mi
 
-Soy un **Desarrollador de software** con experiencia en **programación**, **ciberseguridad**. Me apasiona crear aplicaciones web, desarrollar soluciones escalables y optimizar la experiencia del usuario.
+Soy un **Desarrollador de Software** con experiencia en **programación** y **ciberseguridad**, actualmente en formación en **Ciencia de Datos e Inteligencia Artificial**. Me especializo en el desarrollo de aplicaciones web, la creación de soluciones escalables y la optimización de la experiencia del usuario, enfocándome siempre en la calidad, la eficiencia y las buenas prácticas.
 
 
 🚀 Enfoque actual
@@ -29,6 +30,8 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
     🛡️ Profundizando en Ciberseguridad y Hacking Ético  
     🔐 Prácticas de Pentesting & Análisis de Vulnerabilidades  
     🕵️ Investigación de Malware y Seguridad en Aplicaciones Web  
+
+🌐 **Portafolio:** https://devsebastian44.vercel.app/
 
     
 
@@ -68,10 +71,10 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
   <img src="https://skillicons.dev/icons?i=astro"  alt="astro logo"  />
   <img src="https://skillicons.dev/icons?i=elixir"  alt="elixir logo"  />
   <img src="https://skillicons.dev/icons?i=docker"  alt="docker logo" />
-    <img src="https://skillicons.dev/icons?i=go"  alt="go logo" />
+  <img src="https://skillicons.dev/icons?i=go"  alt="go logo" />
   <img src="https://skillicons.dev/icons?i=git"  alt="git logo" />
   <img src="https://skillicons.dev/icons?i=github"  alt="github logo" />
-    <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux"  alt="linux logo" />
   <img src="https://skillicons.dev/icons?i=kali"  alt="Kali logo" />
   <img src="https://skillicons.dev/icons?i=aws"  alt="aws logo" />
   <img src="https://skillicons.dev/icons?i=jenkins"  alt="jenkins logo"  />
@@ -90,11 +93,6 @@ Soy un **Desarrollador de software** con experiencia en **programación**, **cib
 <img width=409 src="https://github-readme-stats.vercel.app/api?username=Devsebastian44&show_icons=true&theme=dark" alt="Devsebastian44's Streak"/>
 </div>
 
-<!--
-<a href="https://www.instagram.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-
--->
 
 
 
