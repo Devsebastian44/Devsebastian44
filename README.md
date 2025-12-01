@@ -103,3 +103,5 @@ Breve descripción del proyecto y su impacto.
 
 - 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/" target="_blank" rel="noopener noreferrer">devsebastian44.vercel.app</a>
 - 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/devsebastian44/" target="_blank" rel="noopener noreferrer">devsebastian44</a>
+- 📝 <strong>Blog:</strong> <a href="https://devsebastian44-blog.netlify.app/" target="_blank" rel="noopener noreferrer">devsebastian44-blog.netlify.app</a>
+
