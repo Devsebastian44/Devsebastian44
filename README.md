@@ -5,10 +5,18 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/@devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-<a href="https://discord.com/users/1171260800908922950" target="blank"><img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/></a>
-<a href="https://x.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/></a>
-<a href="https://www.instagram.com/devsebastian44" target="blank"><img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://www.youtube.com/@devsebastian44" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+<a href="https://discord.com/users/1171260800908922950" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="https://x.com/devsebastian44" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/devsebastian44" target="_blank" rel="noopener noreferrer">
+  <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
 </p>
 
 
@@ -93,5 +101,5 @@ Breve descripción del proyecto y su impacto.
 
 ¿Interesado en colaborar o tienes algún proyecto en mente? ¡No dudes en contactarme!
 
-- 🌐 **Portfolio:** [devsebastian44.vercel.app](https://devsebastian44.vercel.app/)
-- 💼 **LinkedIn:** [devsebastian44](https://www.linkedin.com/in/devsebastian44/)
+- 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/" target="_blank" rel="noopener noreferrer">devsebastian44.vercel.app</a>
+- 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/devsebastian44/" target="_blank" rel="noopener noreferrer">devsebastian44</a>
