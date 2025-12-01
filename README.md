@@ -14,9 +14,7 @@
 <a href="https://x.com/devsebastian44" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
 </a>
-<a href="https://www.instagram.com/devsebastian44" target="_blank" rel="noopener noreferrer">
   <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
 </p>
 
 
