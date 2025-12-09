@@ -104,6 +104,6 @@ Breve descripción del proyecto y su impacto.
 ¿Interesado en colaborar o tienes algún proyecto en mente? ¡No dudes en contactarme!
 
 - 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/">devsebastian44.vercel.app</a>
+- 📝 <strong>Blog:</strong> <a href="https://codematrix44.vercel.app">codematrix44.vercel.app</a>
 - 💼 <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/devsebastian44/">devsebastian44</a>
-- 📝 <strong>Blog:</strong> <a href="https://devsebastian44-blog.netlify.app/">devsebastian44-blog.netlify.app</a>
 
