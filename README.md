@@ -5,19 +5,26 @@
 </p>
 
 <p align="center">
-<a href="https://www.youtube.com/@devsebastian44">
-  <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
-</a>
-<a href="https://discord.com/users/1171260800908922950">
-  <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
-<a href="https://x.com/devsebastian44">
-  <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=X&logoColor=white"/>
-</a>
-<a href="https://www.instagram.com/devsebastian44">
-  <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
+  <a href="https://www.youtube.com/@devsebastian44">
+    <img align="center" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+  </a>
+  <a href="https://discord.com/users/1171260800908922950">
+    <img align="center" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+  </a>
+  <a href="https://x.com/devsebastian44">
+    <img align="center" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="https://www.tiktok.com/@devsebastian44">
+    <img align="center" src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/devsebastian44">
+    <img align="center" src="https://img.shields.io/badge/Instagram-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.threads.net/@devsebastian44">
+    <img align="center" src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white"/>
+  </a>
 </p>
+
 
 
 ---
