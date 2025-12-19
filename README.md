@@ -39,9 +39,9 @@
 
 ---
 
-## 🚀 Sobre Mí
+## 🚀 About Me
 
-Soy **Desarrollador de Software Full Stack** especializado en crear soluciones web escalables y seguras. Con experiencia en **programación**, **ciberseguridad** y actualmente profundizando en **Ciencia de Datos e IA**.
+I am a **Full Stack Software Developer** specializing in creating scalable and secure web solutions. I have experience in **programming**, **cybersecurity**, and am currently delving deeper into **Data Science and AI**.
 
 ```javascript
 const sebastian = {
@@ -61,14 +61,14 @@ const sebastian = {
 };
 ```
 
-### 🎯 Enfoque Actual
+### 🎯 Current Focus
 
-- 💼 Estudiante en **Oracle Next Education**
-- 🌱 Aprendiendo **Ciencia de Datos** e **Inteligencia Artificial**
-- 🔭 Explorando **Redes Neuronales** y **Machine Learning**
-- 🛡️ Profundizando en **Ciberseguridad** y **Hacking Ético**
-- 🔍 Prácticas de **Pentesting** & **Análisis de Vulnerabilidades**
-- 🕵️ Investigación de **Malware** y **Seguridad en Aplicaciones Web**
+- 💼 Student at **Oracle Next Education**
+- 🌱 Learning **Data Science** and **Artificial Intelligence**
+- 🔭 Exploring **Neural Networks** and **Machine Learning**
+- 🛡️ Delving into **Cybersecurity** and **Ethical Hacking**
+- 🔍 Practicing **Penetration Testing** & **Vulnerability Analysis**
+- 🕵️ Researching **Malware** and **Web Application Security**
 
 ---
 
@@ -90,9 +90,9 @@ const sebastian = {
 ---
 
 
-## 📫 Conectemos
+## 📫 Let's Connect
 
-¿Interesado en colaborar o tienes algún proyecto en mente? ¡No dudes en contactarme!
+Interested in collaborating or have a project in mind? Don't hesitate to contact me!
 
 - 🌐 <strong>Portfolio:</strong> <a href="https://devsebastian44.vercel.app/">devsebastian44.vercel.app</a>
 - 📝 <strong>Blog:</strong> <a href="https://codematrix44.vercel.app">codematrix44.vercel.app</a>
