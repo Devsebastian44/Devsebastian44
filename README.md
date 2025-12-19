@@ -4,7 +4,7 @@
 <img src="Banner.png">
 </p>
 
-<p align="center">
+
 <p align="center">
   <a href="https://www.youtube.com/@devsebastian44" title="YouTube">
     <img src="https://cdn.simpleicons.org/youtube/ff0000" height="32"/>
@@ -33,8 +33,6 @@
 <a href="https://codepen.io/devsebastian44" title="CodePen">
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codepen.svg" height="32"/>
 </a>
-</p>
-
 </p>
 
 
