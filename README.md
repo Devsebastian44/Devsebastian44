@@ -6,35 +6,34 @@
 
 
 <p align="center">
-  <a href="https://www.youtube.com/@devsebastian44" title="YouTube">
+  <a href="https://www.youtube.com/@devsebastian44" title="YouTube" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/youtube/ff0000" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://discord.com/users/1171260800908922950" title="Discord">
+  <a href="https://discord.com/users/1171260800908922950" title="Discord" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/discord/5865F2" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://x.com/devsebastian44" title="X (Twitter)">
+  <a href="https://x.com/devsebastian44" title="X (Twitter)" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/x/000000" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.tiktok.com/@devsebastian44" title="TikTok">
+  <a href="https://www.tiktok.com/@devsebastian44" title="TikTok" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/tiktok/000000" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.instagram.com/devsebastian44" title="Instagram">
+  <a href="https://www.instagram.com/devsebastian44" title="Instagram" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/instagram/E4405F" height="32"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.threads.net/@devsebastian44" title="Threads">
+  <a href="https://www.threads.net/@devsebastian44" title="Threads" style="text-decoration: none;">
     <img src="https://cdn.simpleicons.org/threads/000000" height="32"/>
   </a>
   &nbsp;&nbsp;
-<a href="https://codepen.io/devsebastian44" title="CodePen">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codepen.svg" height="32"/>
-</a>
+  <a href="https://codepen.io/devsebastian44" title="CodePen" style="text-decoration: none;">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codepen.svg" height="32"/>
+  </a>
 </p>
-
 
 
 ---
