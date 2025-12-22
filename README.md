@@ -33,6 +33,7 @@
 <a href="https://codepen.io/devsebastian44" title="CodePen" style="margin-left: 10px;">
   <img src="https://img.icons8.com/?size=100&id=3CTJEmSo0SgI&format=png&color=000000" height="40" style="vertical-align: middle;"/>
 </a>
+<a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/emanuel-lopez-f/"><img alt="LinkedIn" title="My LinkedIn" src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
 </p>
 
 
