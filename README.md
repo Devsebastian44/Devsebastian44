@@ -57,6 +57,7 @@ const sebastian = {
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,angular,astro,bootstrap,tailwind,jquery,nodejs,php,laravel,python,go,elixir,cs,kotlin,postgresql,mysql,mongodb,redis,docker,aws,jenkins,git,github,linux,bash,kali,codepen,obsidian,figma)](https://skillicons.dev)
 
+<!--
 ---
 
 
@@ -66,7 +67,7 @@ const sebastian = {
 [![Keylogger](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Keylogger&theme=dark)](https://github.com/Devsebastian44/Keylogger)
 [![Sandboxed](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Sandboxed&theme=dark)](https://github.com/Devsebastian44/Sandboxed)
 [![Web-Scraping](https://github-readme-stats.vercel.app/api/pin/?username=Devsebastian44&repo=Web-Scraping&theme=dark)](https://github.com/Devsebastian44/Web-Scraping)
-
+-->
 
 ---
 
